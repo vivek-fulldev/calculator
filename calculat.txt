@@ -11,3 +11,8 @@ def multiply(a,b):
       return a * b
 
 multilpy(a,b)
+
+
+def dvivde(a,b)
+    return a/b
+dvide(a,b)
